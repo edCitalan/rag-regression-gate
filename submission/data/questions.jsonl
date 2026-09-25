@@ -1,0 +1,18 @@
+{"question_id": "q-price-0", "question": "How much does the Starter plan cost per month?"}
+{"question_id": "q-refund-0", "question": "What is the refund window for the Starter plan?"}
+{"question_id": "q-price-1", "question": "How much does the Team plan cost per month?"}
+{"question_id": "q-refund-1", "question": "What is the refund window for the Team plan?"}
+{"question_id": "q-price-2", "question": "How much does the Business plan cost per month?"}
+{"question_id": "q-refund-2", "question": "What is the refund window for the Business plan?"}
+{"question_id": "q-price-3", "question": "How much does the Enterprise plan cost per month?"}
+{"question_id": "q-refund-3", "question": "What is the refund window for the Enterprise plan?"}
+{"question_id": "q-latency-0", "question": "What is the typical API latency from the us-east region?"}
+{"question_id": "q-latency-1", "question": "What is the typical API latency from the us-west region?"}
+{"question_id": "q-latency-2", "question": "What is the typical API latency from the eu-central region?"}
+{"question_id": "q-latency-3", "question": "What is the typical API latency from the ap-southeast region?"}
+{"question_id": "q-feature-0", "question": "Which plan is required to use SSO?"}
+{"question_id": "q-feature-1", "question": "Which plan is required to use audit logs?"}
+{"question_id": "q-feature-2", "question": "Which plan is required to use custom roles?"}
+{"question_id": "q-feature-3", "question": "Which plan is required to use the API?"}
+{"question_id": "q-feature-4", "question": "Which plan is required to use webhooks?"}
+{"question_id": "q-feature-5", "question": "Which plan is required to use data export?"}

@@ -1,0 +1,18 @@
+{"question_id": "q-price-0", "answer": "$19 per month", "retrieved_doc_ids": ["plan-starter"]}
+{"question_id": "q-refund-0", "answer": "7 days", "retrieved_doc_ids": ["plan-starter"]}
+{"question_id": "q-price-1", "answer": "$49 per month", "retrieved_doc_ids": ["plan-team"]}
+{"question_id": "q-refund-1", "answer": "14 days", "retrieved_doc_ids": ["plan-team"]}
+{"question_id": "q-price-2", "answer": "$99 per month", "retrieved_doc_ids": ["plan-business"]}
+{"question_id": "q-refund-2", "answer": "30 days", "retrieved_doc_ids": ["plan-business"]}
+{"question_id": "q-price-3", "answer": "I don't know.", "retrieved_doc_ids": ["note-0"]}
+{"question_id": "q-refund-3", "answer": "60 days", "retrieved_doc_ids": ["plan-enterprise"]}
+{"question_id": "q-latency-0", "answer": "about 20 ms", "retrieved_doc_ids": ["region-us-east"]}
+{"question_id": "q-latency-1", "answer": "about 28 ms", "retrieved_doc_ids": ["region-us-west"]}
+{"question_id": "q-latency-2", "answer": "about 36 ms", "retrieved_doc_ids": ["region-eu-central"]}
+{"question_id": "q-latency-3", "answer": "about 44 ms", "retrieved_doc_ids": ["region-ap-southeast"]}
+{"question_id": "q-feature-0", "answer": "the Team plan", "retrieved_doc_ids": ["feature-SSO"]}
+{"question_id": "q-feature-1", "answer": "the Team plan", "retrieved_doc_ids": ["feature-audit-logs"]}
+{"question_id": "q-feature-2", "answer": "the Business plan", "retrieved_doc_ids": ["feature-custom-roles"]}
+{"question_id": "q-feature-3", "answer": "the Business plan", "retrieved_doc_ids": ["feature-API"]}
+{"question_id": "q-feature-4", "answer": "the Enterprise plan", "retrieved_doc_ids": ["feature-webhooks"]}
+{"question_id": "q-feature-5", "answer": "the Enterprise plan", "retrieved_doc_ids": ["feature-data-export"]}

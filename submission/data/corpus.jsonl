@@ -1,0 +1,26 @@
+{"doc_id": "note-2", "title": "Release note 2", "text": "Release 2025.3: performance improvements and bug fixes across the data export subsystem. No action required from customers."}
+{"doc_id": "note-11", "title": "Release note 11", "text": "Release 2025.12: performance improvements and bug fixes across the data export subsystem. No action required from customers."}
+{"doc_id": "note-6", "title": "Release note 6", "text": "Release 2025.7: performance improvements and bug fixes across the audit logs subsystem. No action required from customers."}
+{"doc_id": "feature-custom-roles", "title": "Feature: custom roles", "text": "Custom roles is available starting on the Business plan and above. It can be enabled by an admin in Settings. Changes take effect within 5 minutes."}
+{"doc_id": "plan-enterprise", "title": "Enterprise plan", "text": "The Enterprise plan costs $299 per month and includes 100 seats. Refunds are available within 60 days of purchase. Support is provided via a dedicated success manager."}
+{"doc_id": "feature-webhooks", "title": "Feature: webhooks", "text": "Webhooks is available starting on the Enterprise plan and above. It can be enabled by an admin in Settings. Changes take effect within 5 minutes."}
+{"doc_id": "note-1", "title": "Release note 1", "text": "Release 2025.2: performance improvements and bug fixes across the custom roles subsystem. No action required from customers."}
+{"doc_id": "feature-API", "title": "Feature: the API", "text": "The api is available starting on the Business plan and above. It can be enabled by an admin in Settings. Changes take effect within 5 minutes."}
+{"doc_id": "note-0", "title": "Release note 0", "text": "Release 2025.1: performance improvements and bug fixes across the custom roles subsystem. No action required from customers."}
+{"doc_id": "note-7", "title": "Release note 7", "text": "Release 2025.8: performance improvements and bug fixes across the data export subsystem. No action required from customers."}
+{"doc_id": "region-ap-southeast", "title": "Region ap-southeast", "text": "Data in the ap-southeast region is stored within that geography for residency compliance. Typical API latency from ap-southeast is about 44 ms. Backups run nightly at 02:00 UTC."}
+{"doc_id": "note-8", "title": "Release note 8", "text": "Release 2025.9: performance improvements and bug fixes across the audit logs subsystem. No action required from customers."}
+{"doc_id": "plan-team", "title": "Team plan", "text": "The Team plan costs $49 per month and includes 10 seats. Refunds are available within 14 days of purchase. Support is provided via email and chat."}
+{"doc_id": "note-9", "title": "Release note 9", "text": "Release 2025.10: performance improvements and bug fixes across the audit logs subsystem. No action required from customers."}
+{"doc_id": "note-4", "title": "Release note 4", "text": "Release 2025.5: performance improvements and bug fixes across the audit logs subsystem. No action required from customers."}
+{"doc_id": "feature-SSO", "title": "Feature: SSO", "text": "Sso is available starting on the Team plan and above. It can be enabled by an admin in Settings. Changes take effect within 5 minutes."}
+{"doc_id": "note-5", "title": "Release note 5", "text": "Release 2025.6: performance improvements and bug fixes across the data export subsystem. No action required from customers."}
+{"doc_id": "note-10", "title": "Release note 10", "text": "Release 2025.11: performance improvements and bug fixes across the data export subsystem. No action required from customers."}
+{"doc_id": "feature-data-export", "title": "Feature: data export", "text": "Data export is available starting on the Enterprise plan and above. It can be enabled by an admin in Settings. Changes take effect within 5 minutes."}
+{"doc_id": "plan-starter", "title": "Starter plan", "text": "The Starter plan costs $19 per month and includes 3 seats. Refunds are available within 7 days of purchase. Support is provided via email."}
+{"doc_id": "feature-audit-logs", "title": "Feature: audit logs", "text": "Audit logs is available starting on the Team plan and above. It can be enabled by an admin in Settings. Changes take effect within 5 minutes."}
+{"doc_id": "region-eu-central", "title": "Region eu-central", "text": "Data in the eu-central region is stored within that geography for residency compliance. Typical API latency from eu-central is about 36 ms. Backups run nightly at 02:00 UTC."}
+{"doc_id": "note-3", "title": "Release note 3", "text": "Release 2025.4: performance improvements and bug fixes across the data export subsystem. No action required from customers."}
+{"doc_id": "plan-business", "title": "Business plan", "text": "The Business plan costs $99 per month and includes 25 seats. Refunds are available within 30 days of purchase. Support is provided via priority chat and phone."}
+{"doc_id": "region-us-east", "title": "Region us-east", "text": "Data in the us-east region is stored within that geography for residency compliance. Typical API latency from us-east is about 20 ms. Backups run nightly at 02:00 UTC."}
+{"doc_id": "region-us-west", "title": "Region us-west", "text": "Data in the us-west region is stored within that geography for residency compliance. Typical API latency from us-west is about 28 ms. Backups run nightly at 02:00 UTC."}

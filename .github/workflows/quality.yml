@@ -1,0 +1,20 @@
+name: RAG quality gate
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run offline suite and candidate gate
+        run: python3 -S submission/ci.py --predictions submission/data/candidate_predictions.jsonl
+      - name: Preserve evaluation evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: quality-report
+          path: |
+            submission/reports/candidate.json
+            submission/dashboard.html
+            submission/dashboard.json
