@@ -61,3 +61,7 @@ For initial connected setup only, install `requirements-report.txt`. A resolved 
 Without Evidently, `python -S build_dashboard.py` regenerates the portable summary. Existing Evidently reports remain fixture snapshots and are not automatically updated by CI. The summary links to them only when generated with `--evidently`, avoiding stale candidate-report links.
 
 Documentation consulted: https://docs.evidentlyai.com/introduction and https://evidentlyai.github.io/evidently/api-reference/main/evidently/core/report.html.
+
+## Optional real AI judge
+
+A separate API-based judge is now implemented. See [AI_JUDGE.md](AI_JUDGE.md) for the local .env setup, exact rubric, API contract, run commands, audit trail, and live-validation status. The required offline gate still uses no AI model.
